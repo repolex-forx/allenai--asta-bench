@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "asta-bench",
+  "versions": [
+    {
+      "commit": "ce758d29b5d4c0473a0956ca39f6acdf5b84b2c1",
+      "tag": "",
+      "parsed_at": "2026-11-07T18:33:55.381084+00:00"
+    }
+  ]
+}
