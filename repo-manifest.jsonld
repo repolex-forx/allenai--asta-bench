@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/asta-bench/commit/ce758d29b5d4c0473a0956ca39f6acdf5b84b2c1",
       "git:hexsha": "ce758d29b5d4c0473a0956ca39f6acdf5b84b2c1",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/allenai/asta-bench/commit/698fec73f15b18992829860337fef74608d4ca13",
